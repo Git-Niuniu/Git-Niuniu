@@ -1,4 +1,7 @@
-## Hi there 👋
+## I'm currently trying to develop some small projects with the help of AI, for both my own learning and for everyone to exchange ideas.
+① Ultra-simple temporary email generator 📩   [EmailGenerator](https://emailgenerator.top)
+② Unblocked games collection platform 🎮      [Unblocked Games](https://unblockedplay.com)
+
 
 <!--
 **Git-Niuniu/Git-Niuniu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
