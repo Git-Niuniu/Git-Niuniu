@@ -1,6 +1,6 @@
 ## I'm currently trying to develop some small projects with the help of AI, for both my own learning and for everyone to exchange ideas.
-① Ultra-simple temporary email generator 📩   [EmailGenerator](https://emailgenerator.top)
-② Unblocked games collection platform 🎮      [Unblocked Games](https://unblockedplay.com)
+1️⃣ Ultra-simple temporary email generator 📩   [EmailGenerator](https://emailgenerator.top)  
+2️⃣ Unblocked games collection platform 🎮      [Unblocked Games](https://unblockedplay.com)
 
 
 <!--
